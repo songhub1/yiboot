@@ -1,0 +1,14 @@
+{
+    "name": "yiboot/yiboot",
+    "description": "yiboot demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songhe",
+            "email": "songhe156@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
